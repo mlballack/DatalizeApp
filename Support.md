@@ -1,9 +1,12 @@
 # DecYou
-<img src="https://user-images.githubusercontent.com/77086210/156693385-d47e7be1-08ed-40ac-8f4e-c14324613209.PNG" height="300"> <img src="https://user-images.githubusercontent.com/77086210/156693185-7444a2fd-75d8-402c-a80f-5fb7348511c2.PNG" height="300">
+![image](https://user-images.githubusercontent.com/77086210/188751095-a487fb56-898b-48e7-8056-6263e896c709.png)
 
-## 機能
-- チャットライクにメモの記録
-- ダークモード対応
+## 使い方
+1. 「設定」ダブの「データ集類の編集」をタップ
+2. 「データタイプを追加」をタップ
+3. 任意のデータ種類（ex. 体重, 筋トレの回数など）を入力し、キーボード内の「完了」を押下
+4. 「入力」タブで任意のデータ種類を日々記録
+5. 「閲覧」タブで記録したデータの変化を確認
 
 ## 対応機種
 iOS14.0以上のiPhone
